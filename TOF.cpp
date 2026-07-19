@@ -1,5 +1,5 @@
 /*
-The TOF module is the perception system of your maze solver robot. Its purpose is to accurately 
+The TOF module is the perception system of the maze solver robot. Its purpose is to accurately 
 measure the distance to surrounding walls using the VL53L0X Time-of-Flight sensor, providing reliable 
 environmental information that allows the robot to detect obstacles, construct an internal map of the maze, 
 and make intelligent navigation decisions.
