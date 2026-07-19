@@ -1,5 +1,5 @@
 /*
-The Motor module is the low-level motion control layer of your ESP32 maze solver robot.
+The Motor module is the low-level motion control layer of the ESP32 maze solver robot.
 Its purpose is to translate high-level movement commands into precise electrical control signals
 for the DRV8833 motor driver, enabling accurate control of motor direction, speed, stopping, 
 and braking so the robot can execute the navigation decisions made by the Flood Fill algorithm and other control systems.
