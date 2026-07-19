@@ -1,5 +1,5 @@
 /*
-The TurnController module is the precision turning system of your maze solver robot. 
+The TurnController module is the precision turning system of the maze solver robot. 
 Its purpose is to execute accurate rotations by combining motor control, gyroscope feedback, 
 and PID control, ensuring that every commanded turn is completed with the correct orientation 
 before the robot continues navigating the maze.
