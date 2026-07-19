@@ -1,5 +1,5 @@
 /*
-For your ESP32-based maze-solving robot, the Navigation module serves as the central mission controller. 
+For the ESP32-based maze-solving robot, the Navigation module serves as the central mission controller. 
 It keeps track of the robot's position, heading, and current mission phase while coordinating Sensor Fusion, 
 the Maze module, Flood Fill, and the Motion Controller. By repeatedly scanning the environment, updating the maze, 
 selecting the best direction, and commanding the required movements, it enables the robot to autonomously explore the maze, 
