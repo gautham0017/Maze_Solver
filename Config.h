@@ -1,4 +1,4 @@
-/*This file acts as the central configuration file for your entire maze-solving robot. It groups together:
+/*This file acts as the central configuration file forthe entire maze-solving robot. It groups together:
 Maze parameters: maze size and cell dimensions.
 Robot geometry: wheel diameter, wheel base, and derived wheel circumference.
 Encoder configuration: pulses per revolution, gear ratio, and total ticks per wheel revolution.
