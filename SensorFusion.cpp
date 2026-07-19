@@ -1,5 +1,5 @@
 /*
-The SensorFusion module is the environment interpretation system of your maze solver robot. 
+The SensorFusion module is the environment interpretation system of the maze solver robot. 
 Its purpose is to combine the distance measurements from the Servo Scanner with the robot's current position 
 and heading, identify where walls exist in the maze, and update the robot's internal map so that the navigation 
 and Flood Fill algorithms always operate on an accurate representation of the environment.
