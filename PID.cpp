@@ -1,5 +1,5 @@
 /*
-The PID module is the real-time motion correction system of your maze solver robot. 
+The PID module is the real-time motion correction system of the maze solver robot. 
 Its purpose is to use sensor feedback to continuously detect movement errors and automatically 
 adjust the motor outputs, ensuring the robot drives straight, turns accurately, maintains stable speed,
 and navigates the maze with the precision required for successful exploration and fast speed runs.
